@@ -1,4 +1,5 @@
 - 👋 Hi, I’m [Kuol Wek](https://kuolwek.com/)
+- SAIT certified web developer with 4 years of real-world experiance
 - 🔥 I’m interested in Web Development
 - 🎉 I have been coding for 9 years
 - 👔 I have 4 years of work experiance
