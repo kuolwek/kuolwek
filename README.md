@@ -1,4 +1,6 @@
 - 👋 Hi, I’m [Kuol Wek](https://kuolwek.com/)
 - 🔥 I’m interested in Web Development
+- 🎉 I have been coding for 9 years
+- 👔 I have 4 years of work experiance
 - 🧠 I’m currently learning Laravel
 - 📫 Reach me at kuolwek@hotmail.com
