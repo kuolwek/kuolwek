@@ -1,0 +1,4 @@
+- 👋 Hi, I’m [Kuol Wek](https://kuolwek.com/)
+- 🔥 I’m interested in Web Development
+- 🧠 I’m currently learning Laravel
+- 📫 How to reach me at kuolwek@hotmail.com
